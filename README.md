@@ -88,6 +88,16 @@ System accuracy depends on a number of factors, including core model accuracy, c
 
 ##### Text Analytics
 
+- What are the Text Analytics APIs and their use cases?
+
+The Text Analytics API is a cloud-based service that provides advanced natural language processing over raw text, and includes four main functions: sentiment analysis, key phrase extraction, named entity recognition, and language detection.
+
+[Text Analytics API Documentation](https://docs.microsoft.com/azure/cognitive-services/text-analytics/?WT.mc_id=aiml-14043-ayyonet)
+
+- How can you use Text Analytics for health?
+
+[Source Documentation](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?tabs=ner&WT.mc_id=aiml-14043-ayyonet)
+
 #### Decision
 
 ##### Anomaly Detector
