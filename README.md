@@ -98,6 +98,13 @@ The Text Analytics API is a cloud-based service that provides advanced natural l
 
 [Source Documentation](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?tabs=ner&WT.mc_id=aiml-14043-ayyonet)
 
+- How do you make sure health data is secure and private when using Text Analytics for Health?
+
+  - You can run the [Text Analytics for Health Service in a container](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-install-containers?tabs=healthcare&WT.mc_id=aiml-14043-ayyonet) on your own environment and make sure your data never leaves your device.
+  - When using the REST endpoints to use the API, Azure has [Privacy](https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/?WT.mc_id=aiml-14043-ayyonet) and [HIPAA](https://www.hhs.gov/hipaa/for-professionals/security/laws-regulations/index.html) complience for USA. Check your local 
+  - You can check the other [omplience offerings for Cognitive Services in this documentation](https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/?WT.mc_id=aiml-14043-ayyonet)
+
+
 #### Decision
 
 ##### Anomaly Detector
