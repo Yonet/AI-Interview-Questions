@@ -96,6 +96,8 @@ The Text Analytics API is a cloud-based service that provides advanced natural l
 
 - How can you use Text Analytics for health?
 
+Text Analytics for health is a feature of the Text Analytics API service that extracts and labels relevant medical information from unstructured texts such as doctor's notes, discharge summaries, clinical documents, and electronic health records. 
+
 [Source Documentation](https://docs.microsoft.com/azure/cognitive-services/text-analytics/how-tos/text-analytics-for-health?tabs=ner&WT.mc_id=aiml-14043-ayyonet)
 
 - How do you make sure health data is secure and private when using Text Analytics for Health?
