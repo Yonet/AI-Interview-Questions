@@ -148,6 +148,12 @@ Bot Service includes five templates to help you get started with building bots. 
 
 - [How to cross training your LUIS and QnA Maker models?](https://docs.microsoft.com/azure/bot-service/bot-builder-concept-cross-train?view=azure-bot-service-4.0&WT.mc_id=aiml-0000-ayyonet)
 
+- [What is the Bot Framework Emulator?](https://github.com/microsoft/BotFramework-Emulator?WT.mc_id=aiml-0000-ayyonet)
+
+The Bot Framework Emulator is a desktop application that allows bot developers to test and debug bots built using the Bot Framework SDK. You can use the Bot Framework Emulator to test bots running either locally on your machine or connect to bots running remotely through a tunnel.
+
+- [Where can I find Bot Builder sample code?](https://github.com/Microsoft/BotBuilder-Samples)
+
 #### Decision
 
 ##### Anomaly Detector
