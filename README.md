@@ -14,6 +14,7 @@ Artificial Intelligence interview questions.
 - How would you start solving a real world problem with AI?
 - What are some of the ethical AI principles? 
 - What are some of the challenges that you run into when solving a problem with AI?
+- [What are some of the best practices for scaling?](https://docs.microsoft.com/azure/azure-monitor/autoscale/autoscale-best-practices?WT.mc_id=aiml-10703-ayyonet)
 
 ## Azure AI Platform
 
@@ -30,6 +31,7 @@ Cognitive Services are Azure's pre-trained AI services that are easy to use, whi
 - Read more about Cognitive Services Overview at [aka.ms/CognitiveServicesOverview](https://azure.microsoft.com/services/cognitive-services/?WT.mc_id=aiml-14043-ayyonet)
 - [Azure Cognitive Services Documentation](https://docs.microsoft.com/azure/cognitive-services/?WT.mc_id=aiml-14043-ayyonet)
 - [Zero to Hero Azure AI Learning Resources](https://azure.microsoft.com/overview/ai-platform/dev-resources/?WT.mc_id=aiml-14043-ayyonet#learning-journey)
+- [How to configure Cloud Services to auto scale?](https://docs.microsoft.com/azure/cloud-services/cloud-services-how-to-scale-portal?WT.mc_id=aiml-10703-ayyonet)
 
 #### Vision
 
