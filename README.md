@@ -80,6 +80,8 @@ System accuracy depends on a number of factors, including core model accuracy, c
 
 ##### Text to Speech
 
+- [How do you improve synthesis with Speech Synthesis Markup Language (SSML)?](https://docs.microsoft.com/azure/cognitive-services/speech-service/speech-synthesis-markup?tabs=csharp&WT.mc_id=aiml-14043-ayyonet)
+
 ##### Speech Translation
 
 ##### Voice Assistants
