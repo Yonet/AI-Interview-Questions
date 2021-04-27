@@ -150,7 +150,7 @@ Bot Service includes five templates to help you get started with building bots. 
 
 - [How does Bot Framework work with other AI services?](https://docs.microsoft.com/previous-versions/azure/bot-service/bot-service-concept-intelligence?view=azure-bot-service-3.0&WT.mc_id=aiml-14043-ayyonet)
 
-- [How to cross training your LUIS and QnA Maker models?](https://docs.microsoft.com/azure/bot-service/bot-builder-concept-cross-train?view=azure-bot-service-4.0&WT.mc_id=aiml-0000-ayyonet)
+- [How to cross training your LUIS and QnA Maker models?](https://docs.microsoft.com/azure/bot-service/bot-builder-concept-cross-train?view=azure-bot-service-4.0&WT.mc_id=aiml-14043-ayyonet)
 
 - [What is the Bot Framework Emulator?](https://github.com/microsoft/BotFramework-Emulator?WT.mc_id=aiml-0000-ayyonet)
 
@@ -159,6 +159,8 @@ The Bot Framework Emulator is a desktop application that allows bot developers t
 - [Where can I find Bot Builder sample code?](https://github.com/Microsoft/BotBuilder-Samples)
 
 #### Decision
+
+- [What is the minimum required data for Metrics Advisor?](https://docs.microsoft.com/azure/cognitive-services/metrics-advisor/how-tos/onboard-your-data?WT.mc_id=aiml-14043-ayyonet)
 
 ##### Anomaly Detector
 
