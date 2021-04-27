@@ -152,22 +152,29 @@ Bot Service includes five templates to help you get started with building bots. 
 
 - [How to cross training your LUIS and QnA Maker models?](https://docs.microsoft.com/azure/bot-service/bot-builder-concept-cross-train?view=azure-bot-service-4.0&WT.mc_id=aiml-14043-ayyonet)
 
-- [What is the Bot Framework Emulator?](https://github.com/microsoft/BotFramework-Emulator?WT.mc_id=aiml-0000-ayyonet)
+- [What is the Bot Framework Emulator?](https://github.com/microsoft/BotFramework-Emulator?WT.mc_id=aiml-14043-ayyonet)
 
 The Bot Framework Emulator is a desktop application that allows bot developers to test and debug bots built using the Bot Framework SDK. You can use the Bot Framework Emulator to test bots running either locally on your machine or connect to bots running remotely through a tunnel.
 
 - [Where can I find Bot Builder sample code?](https://github.com/Microsoft/BotBuilder-Samples)
 
-#### Decision
+#### [Decision](https://docs.microsoft.com/azure/cognitive-services/what-are-cognitive-services?WT.mc_id=aiml-14043-ayyonet#decision-apis)
 
-- [What is the minimum required data for Metrics Advisor?](https://docs.microsoft.com/azure/cognitive-services/metrics-advisor/how-tos/onboard-your-data?WT.mc_id=aiml-14043-ayyonet)
 
-##### Anomaly Detector
+##### [Anomaly Detector](https://docs.microsoft.com/azure/cognitive-services/anomaly-detector/?WT.mc_id=aiml-14043-ayyonet)
 
+- [For best results when using the Anomaly Detector API, what should your time series data include?](https://docs.microsoft.com/azure/cognitive-services/anomaly-detector/overview?WT.mc_id=aiml-14043-ayyonet#workflow)
+  - Data points separated by the same interval, with no more than 10% of the expected number of points missing.
+  - At least 12 data points if your data doesn't have a clear seasonal pattern.
+  - At least 4 pattern occurrences if your data does have a clear seasonal pattern.
+  - 
 ##### Content Moderator
 
-#####  Personalizer
+##### Personalizer
 
+##### Metrics Advisor
+
+- [What is the minimum required data for Metrics Advisor?](https://docs.microsoft.com/azure/cognitive-services/metrics-advisor/how-tos/onboard-your-data?WT.mc_id=aiml-14043-ayyonet)
 
 #### Search
 
